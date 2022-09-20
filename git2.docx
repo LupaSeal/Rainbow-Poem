@@ -1,0 +1,41 @@
+
+
+ 
+
+ Git and GitHub
+ 
+                                                                                                                                 						            
+
+        
+
+                 Git and Git Hub:
+                   Git and GitHub are 2 different things
+
+1.	Git:
+ Git is a software that comes with the computer if you have Mac or Linux
+ For windows you have to download it – Git Bash
+ Git is a memory card for your cod
+   
+                                      If you have a project with a bunch of files (html, css, js) you want just like you have a video game you want to save your progress as you go, that way if you die you don’t loose all your progress
+                            
+                                                                               This will be saved locally on your computer, nobody can access this
+
+
+                                                                                     Example:
+                                                                                        mkdir gitVideo <- create a folder named gitVideo
+                                                                                         cd gitVideo <- access the file
+                                                                                         touch index.html app.css <- create index and app files
+
+1.1.	How to use Git:
+a.	Initialize your folder with git:
+git init = put the memory card into the game system, because you cannot save game without memory
+              Now we can use Git!
+b.	Save our progress:
+git add  = is used to save, we can choose all the project with a dot or a specific file like index.html
+git add .
+
+ 
+		
+
+
+
